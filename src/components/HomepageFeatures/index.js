@@ -18,8 +18,8 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_safe_re_kiil.svg').default,
     description: (
       <>
-        Dengan menyimpan data pasien dalam <code>DATABASE</code> lokal Fasilitas Kesehatan, 
-        SIMKES Khanza meminimalkan risiko pelanggaran data.
+        Dengan menyimpan data pasien dalam <code>DATABASE</code> lokal Fasilitas Kesehatan yang terstruktur, 
+        aman, dan terenkripsi secara efisien, SIMKES Khanza meminimalkan risiko pelanggaran data.
       </>
     ),
   },
