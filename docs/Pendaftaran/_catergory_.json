@@ -1,8 +1,4 @@
 {
   "label": "Pendaftaran",
-  "position": 2,
-  "link": {
-    "type": "generated-index",
-    "description": "Pendaftaran Pasien"
-  }
+  "position": 3
 }

@@ -1,5 +1,5 @@
 ---
-title: Introduction
+sidebar_label: Perkenalan
 sidebar_position: 1
 ---
 

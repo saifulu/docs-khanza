@@ -1,5 +1,5 @@
 ---
-id: instalasi-client
+id: 02-instalasi-client
 title: Instalasi Client
 sidebar_position: 2
 ---
