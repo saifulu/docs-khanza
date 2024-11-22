@@ -1,19 +1,23 @@
 ---
-sidebar_label: Buat RM Baru
+sidebar_label: Input RM Baru
 sidebar_position: 2
 ---
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 # Buat RM Baru
+
+**Rekam Medis Baru** adalah data kesehatan yang pertama kali dicatat untuk pasien yang baru datang ke fasilitas kesehatan. Dalam proses ini, Nomor Rekam Medis (RM) baru akan dibuat dan diberikan kepada pasien sebagai identifikasi unik.
+
+
 <Tabs>
   <TabItem value="tutorial" label="Tutorial" default>
 
-a.	Masuk ke data RM
+**a.	Masuk ke data RM**
  ![alt text](image.png)
 -	Klik menu klip pada No.Rekamedis
 
-b.	Isi data RM sesuai dengan data pasien
+**b.	Isi data RM sesuai dengan data pasien**
  ![alt text](image-1.png)
 
 **Keterangan :**
@@ -45,8 +49,6 @@ b.	Isi data RM sesuai dengan data pasien
 | **Pekerjaan**                    | Pekerjaan atau profesi pasien.                                               |
 | **No. KTP/SIM**                  | Nomor identitas pasien, bisa berupa KTP (Kartu Tanda Penduduk) atau SIM (Surat Izin Mengemudi). |
 | **NIP/NRP**                      | Nomor identitas pegawai atau nomor registrasi, biasanya digunakan untuk pasien yang terdaftar di instansi atau organisasi tertentu. |
-| **Key Word**                     | Kata kunci yang digunakan untuk mencari rekam medis pasien dalam sistem.     |
-
 
 
 # Mencari RM Lama
