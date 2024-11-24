@@ -19,8 +19,8 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
+          showLastUpdateAuthor: true, // Menampilkan nama penulis commit terakhir
+          showLastUpdateTime: true,  // Menampilkan waktu commit terakhir  
           editUrl:
             'https://github.com/mas-elkhanza/SIMRS-Khanza',
         },
