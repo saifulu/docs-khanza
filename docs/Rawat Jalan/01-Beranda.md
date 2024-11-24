@@ -1,6 +1,8 @@
 ---
 sidebar_label: Beranda
 sidebar_position: 1
+lastUpdatedAt: 2024-11-24
+lastUpdatedBy: Iphul
 ---
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
