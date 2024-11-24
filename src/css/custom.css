@@ -28,3 +28,9 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.admonition.note {
+  background-color: #d4edda; /* Hijau pucat */
+  border-left: 4px solid #28a745; /* Hijau lebih gelap */
+  color: #155724; /* Hijau teks */
+}
