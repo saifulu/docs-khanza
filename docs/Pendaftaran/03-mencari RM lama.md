@@ -13,11 +13,11 @@ Dengan menggunakan Nomor Rekam Medis, informasi penting seperti diagnosis, peraw
 <Tabs>
   <TabItem value="tutorial" label="Tutorial" default>
 
-## **A. Sudah tahu No.RM**
+## **A. Sudah tau No.RM**
 ![alt text](image-3.png)
 - Masukan no.rm pada kolom No.Rekam Medis kemudian enter
 
-## **B. Tidak tahu No.RM**
+## **B. Tidak tau No.RM**
 ![alt text](image-2.png)
 - Klik menu klip pada No.Rekam Medis di form pendaftaran
 - Masukkan Nama atau data untuk mencari di kolom pencarian:

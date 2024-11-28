@@ -23,7 +23,6 @@ const config = {
           showLastUpdateTime: true,  // Menampilkan waktu commit terakhir  
           editUrl:
             'https://github.com/mas-elkhanza/SIMRS-Khanza',
-          lastUpdated: true, // Pastikan ini aktif
         },
         blog: {
           showReadingTime: true,
