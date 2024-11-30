@@ -2,9 +2,6 @@
 title: Input Resep
 sidebar_label: Input Resep
 sidebar_position: 2
-last_update:
-  date: 30/11/2024
-  name: Nama Author
 ---
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
