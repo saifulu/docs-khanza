@@ -42,7 +42,7 @@ Selesai! Data tindakan pasien sudah siap diproses.
 
 :::note
 **Cara Cepat**
-Dobel Klik atau tekan spasi pada kode dokte, maka akan langsung tampil menu tindakan dan pemeriksaan.
+Dobel Klik atau tekan spasi pada kode dokter, maka akan langsung tampil menu tindakan dan pemeriksaan.
 :::
 
 
