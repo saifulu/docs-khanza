@@ -14,6 +14,6 @@ Keterangan beranda rawat jalan
 
 </TabItem>
 <TabItem value="Struktur" label="Struktur">
-## isi dengan struktur
+## Struktur Data
 </TabItem>
 </Tabs>
